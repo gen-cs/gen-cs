@@ -31,8 +31,8 @@
 ---
 
 ### 📫 How to reach me:
-- 💼 LinkedIn: [linkedin.com/in/gen-cs](https://linkedin.com/in/gen-cs)
-- 📧 Email: `your.email@example.com`  
+- 💼 LinkedIn: [linkedin.com/in/gen-cs](https://linkedin.com/in/chandhrasekaran-baskar-2b766918b)
+- 📧 Email: `*Coming Soon...*`  
 - 🌐 Portfolio: *Coming Soon...*
 
 ---
